@@ -28,7 +28,7 @@ public class InsertionSort {
     public static void main(String[] args) {
         int[] arr = takeInput();
         insertionSort(arr);
-        for (int i : arr){
+        for (int i : arr){ // printing the sorted array
             System.out.print(i + " ");
         }
     }
