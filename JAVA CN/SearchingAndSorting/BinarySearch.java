@@ -13,7 +13,7 @@ public class BinarySearch {
                 return mid;
             }else if(arr[mid] < target){
                 start = mid + 1;
-            }else if(arr[mid] > target){ // we can put just else
+            }else if(arr[mid] > target){ // we can put just else in it
                 end = mid - 1;
             }
         }
