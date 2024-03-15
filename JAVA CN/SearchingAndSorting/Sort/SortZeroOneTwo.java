@@ -18,7 +18,7 @@ public class SortZeroOneTwo {
                 temp = arr[i];
                 arr[i] = arr[end];
                 arr[end] = temp;
-                end--;
+                end--; // i++ is not here cause it is double checking 
             }else if(arr[i] == 1){
                 i++;
             }
