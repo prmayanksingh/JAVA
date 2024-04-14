@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "recursion.test",
+            "projectName": "DSAre_48ec300d"
+        },
+        {
+            "type": "java",
+            "name": "count_zeros",
+            "request": "launch",
+            "mainClass": "recursion.count_zeros",
+            "projectName": "DSAre_48ec300d"
+        },
+        {
+            "type": "java",
+            "name": "multiplication",
+            "request": "launch",
+            "mainClass": "recursion.multiplication",
+            "projectName": "DSAre_48ec300d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "all_index",
+            "request": "launch",
+            "mainClass": "recursion.all_index",
+            "projectName": "DSAre_48ec300d"
+        },
+        {
+            "type": "java",
+            "name": "last_index",
+            "request": "launch",
+            "mainClass": "recursion.last_index",
+            "projectName": "DSAre_48ec300d"
+        }
+    ]
+}
