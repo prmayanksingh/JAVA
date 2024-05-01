@@ -6,7 +6,7 @@ public class ArrayUse {
          arr [0] = 15;
          System.out.println(arr[0]);
          System.out.println(arr[5]);
-         
+         //mayank
          char chArray[] = new char [11];
          chArray[0] = 'a';
          double dArray[] = new double[12];
